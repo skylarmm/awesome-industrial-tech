@@ -1,17 +1,18 @@
-# Contribution Guidelines for Awesome AI Agents
+# Contribution Guidelines for Awesome Industrial Tech
 
-Welcome to the forefront of autonomous software! The AI Agent ecosystem moves incredibly fast, which means we must aggressively filter out noise and unmaintained projects.
+Thank you for helping us build the ultimate resource for intelligent manufacturing! This repository is proudly curated by the Atomu Lab community. 
 
-## Strict Quality Filters
-To be merged into this repository, a project MUST:
-* **Be Active:** Have commits within the last 30 days. We do not accept dead projects.
-* **Be More Than a Wrapper:** We reject simple API wrappers. The project must demonstrate genuine autonomous reasoning, multi-agent orchestration, or complex tool use.
-* **Have Documentation:** Must include clear installation instructions and usage examples in its own README.
+Our goal is to bridge the gap between IT and OT (Operational Technology). Therefore, we prioritize stability, standard protocols, and real-world applicability.
 
-## Pull Request Workflow
-1. Ensure the project is not already listed.
-2. Fork the repo and create a branch (e.g., `feat/add-new-agent-framework`).
-3. Add the entry using the exact format: `* [Tool](link) - Short description.`
-4. Open a PR and provide a brief summary of the agent's core capabilities.
+## Submission Requirements
+* **Industrial Standards:** We highly favor projects that support recognized industrial protocols (e.g., MQTT, OPC UA, Modbus) or standard PLC architectures.
+* **Open Architecture:** Hardware projects must include CAD files or PCB schematics.
+* **Real-World Proven:** Experimental projects are welcome, but please indicate if the software/hardware is currently deployed in a real manufacturing environment.
 
-The maintainers reserve the right to decline any PR that dilutes the high-signal nature of this list.
+## The PR Process
+1. Search the existing list to prevent duplicates.
+2. Fork the repository and make your additions in a new branch.
+3. Keep descriptions objective and concise (no marketing jargon).
+4. Submit your Pull Request. In the PR comments, briefly explain how this project contributes to open architecture manufacturing.
+
+Welcome to the Atomu Lab ecosystem! We look forward to reviewing your contributions.
